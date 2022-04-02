@@ -3,7 +3,7 @@
   - .net, C#, JavaScript/TypeScript
   - Cloud Infrastructure (Azure, AWS, Google Cloud) 
   - Azure DevOps CI/CD
-- 👀 I’m interested in the Distributed Microservice Architectures with scalable and resilient applcations, Internet of Things, and AI.
+- 👀 I’m interested in the Distributed Microservice Architectures for scalable and resilient applcations, Internet of Things, and AI.
 - 🌱 I’m currently learning the ZigBee stack for improving existing intergrations. Initially my interest was to make my home 'smart' and proactively secure, 
 but thanks to certain Patterns has also lead to Gas and Electricty reduction in the Home. 
 - 💞️ I’m looking to collaborate on projects that make life easier for others, focus on Energy consumption reduction or generally something where my skill sets can be applied.
